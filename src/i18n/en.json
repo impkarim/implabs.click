@@ -1,0 +1,225 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "work": "Work",
+    "process": "Process",
+    "about": "About",
+    "contact": "Contact",
+    "startProject": "Start a Project",
+    "certifications": "Certifications"
+  },
+  "hero": {
+    "label": "DIGITAL PRODUCTS • BUILT DIFFERENTLY",
+    "title": "Your idea. Built into something real.",
+    "subtitle": "We design and develop websites, mobile apps and custom software tailored to your goals.",
+    "cta": "Start Your Project",
+    "secondary": "View Our Work",
+    "tags": "Websites • Apps • Custom Software"
+  },
+  "services": {
+    "label": "WHAT WE BUILD",
+    "title": "Digital solutions built around you.",
+    "websites": {
+      "title": "Websites",
+      "desc": "Modern responsive websites built for performance, usability and growth.",
+      "link": "Learn more"
+    },
+    "apps": {
+      "title": "Mobile Apps",
+      "desc": "Modern mobile experiences built around your users and business goals.",
+      "link": "Learn more"
+    },
+    "software": {
+      "title": "Custom Software",
+      "desc": "Tailored software solutions designed around your unique requirements.",
+      "link": "Learn more"
+    }
+  },
+  "whyUs": {
+    "label": "WHY IMP LABS",
+    "title": "More than code. A partner for your idea.",
+    "description": "We combine strategy, design and technology to turn your ideas into real digital solutions. Our focus is on quality, simplicity and long-term value.",
+    "design": {
+      "title": "Thoughtful Design",
+      "desc": "Clean, modern and user-centered experiences."
+    },
+    "dev": {
+      "title": "Clean Development",
+      "desc": "Reliable, scalable and maintainable code."
+    },
+    "support": {
+      "title": "Long-Term Support",
+      "desc": "We stay with you even after launch."
+    }
+  },
+  "process": {
+    "label": "HOW WE WORK",
+    "title": "From idea to launch.",
+    "discover": { "title": "Discover", "desc": "Understand your goals." },
+    "design": { "title": "Design", "desc": "Shape the right experience." },
+    "build": { "title": "Build", "desc": "Develop the product." },
+    "launch": { "title": "Launch", "desc": "Test, deliver and support." }
+  },
+  "projects": {
+    "label": "SELECTED WORK",
+    "title": "Things we've built.",
+    "comingSoon": "Our portfolio is being prepared. Stay tuned for amazing projects!",
+    "viewProject": "View Project"
+  },
+  "cta": {
+    "label": "READY TO BUILD SOMETHING GREAT?",
+    "title": "Have an idea? Let's build it.",
+    "description": "Tell us what you want to create and we'll help you turn it into a digital product.",
+    "cta": "Start Your Project",
+    "whatsapp": "+213 550 83 14 06",
+    "whatsappMessage": "Hello IMP Labs, I would like to discuss a new project."
+  },
+  "footer": {
+    "tagline": "Your Vision. Our Code.",
+    "description": "IMP Labs designs and develops modern websites, mobile apps and custom software solutions tailored to your ideas and business needs.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contactTitle": "Contact",
+    "copyright": "© 2026 IMP Labs. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "securePayments": "Secure Payments",
+    "contactEmail": "implabs.dev@gmail.com",
+    "phone": "+213 550 83 14 06",
+    "location": "Algeria",
+    "website": "implabs.click"
+  },
+  "contact": {
+    "title": "Start a Project",
+    "subtitle": "Tell us about your project and we'll get back to you.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone / WhatsApp",
+    "projectType": "Project Type",
+    "budget": "Budget",
+    "description": "Project Description",
+    "submit": "Send Project Request",
+    "placeholderName": "Your name",
+    "placeholderEmail": "you@example.com",
+    "placeholderPhone": "+213 XXX XXX XXX",
+    "placeholderDesc": "Tell us about your project...",
+    "types": {
+      "website": "Website",
+      "mobileApp": "Mobile App",
+      "customSoftware": "Custom Software",
+      "uiux": "UI/UX",
+      "other": "Other"
+    },
+    "budgets": {
+      "1k5k": "$1,000 – $5,000",
+      "5k15k": "$5,000 – $15,000",
+      "15k50k": "$15,000 – $50,000",
+      "50k": "$50,000+"
+    },
+    "placeholderProjectType": "e.g. Website, Mobile App, Custom Software...",
+    "placeholderBudget": "e.g. 500,000 DZD",
+    "validation": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "phoneRequired": "Phone number is required",
+      "typeRequired": "Please select a project type",
+      "descRequired": "Please describe your project"
+    }
+  },
+  "certifications": {
+    "label": "CERTIFICATIONS",
+    "title": "Our Certifications",
+    "subtitle": "Recognized certifications that reflect our commitment to quality and professional standards.",
+    "comingSoon": "Certifications coming soon.",
+    "slimiRahal": {
+      "title": "Dar Nashr Slimi Rahal",
+      "type": "Publishing House",
+      "description": "Certificate of appreciation from Dar Nashr Slimi Rahal for designing and developing their official website with a high level of professionalism befitting their reputation.",
+      "year": "Year",
+      "service": "Service",
+      "serviceValue": "Website Design & Development",
+      "visitClient": "Visit Client"
+    },
+    "benDaoud": {
+      "title": "Prof. Bin Daoud Brahim",
+      "type": "Law",
+      "description": "Certificate of appreciation from Prof. Bin Daoud Brahim, a certified lawyer at the Supreme Court and university professor, for designing and developing his personal website and law firm website.",
+      "year": "Year",
+      "service": "Service",
+      "serviceValue": "Personal & Law Firm Website",
+      "visitClient": "Visit Client"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: September 14, 2026",
+    "section1": {
+      "title": "Information We Collect",
+      "content": "We collect information you provide directly to us, such as when you fill out our contact form. This may include your name, email address, phone number, and project details."
+    },
+    "section2": {
+      "title": "How We Use Your Information",
+      "content": "We use the information we collect to respond to your inquiries, provide you with requested services, and improve our website and offerings."
+    },
+    "section3": {
+      "title": "Information Sharing",
+      "content": "We do not sell, trade, or otherwise transfer your personal information to outside parties. This does not include trusted third parties who assist us in operating our website and servicing you."
+    },
+    "section4": {
+      "title": "Data Security",
+      "content": "We implement a variety of security measures to maintain the safety of your personal information. However, no method of transmission over the Internet is 100% secure."
+    },
+    "section5": {
+      "title": "Cookies",
+      "content": "Our website may use cookies to enhance your experience. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies."
+    },
+    "section6": {
+      "title": "Third-Party Links",
+      "content": "Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies."
+    },
+    "section7": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy, please contact us at"
+    },
+    "contactEmail": "implabs.dev@gmail.com"
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: September 14, 2026",
+    "section1": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing and using the IMP Labs website and services, you accept and agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services."
+    },
+    "section2": {
+      "title": "Services",
+      "content": "IMP Labs provides web development, mobile app development, and custom software solutions. We reserve the right to modify, suspend, or discontinue any part of our services at any time."
+    },
+    "section3": {
+      "title": "Project Agreements",
+      "content": "All projects will be governed by a separate agreement that outlines the scope, timeline, deliverables, and pricing. These terms apply to your use of our website and initial communications."
+    },
+    "section4": {
+      "title": "Intellectual Property",
+      "content": "Upon full payment, the client owns all rights to the deliverables created specifically for their project. IMP Labs retains the right to display the work in our portfolio unless otherwise agreed."
+    },
+    "section5": {
+      "title": "Payment Terms",
+      "content": "Payment terms will be outlined in individual project agreements. Generally, we require a deposit before work begins and remaining payments upon milestone completion."
+    },
+    "section6": {
+      "title": "Limitation of Liability",
+      "content": "IMP Labs shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services or website."
+    },
+    "section7": {
+      "title": "Contact Us",
+      "content": "If you have any questions about these Terms of Service, please contact us at"
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "subtitle": "The page you're looking for doesn't exist or has been moved.",
+    "backHome": "Back to Home"
+  }
+}
